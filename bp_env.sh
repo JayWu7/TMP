@@ -1,6 +1,6 @@
 # sudo apt-get install unzip -y
 # unzip bpx-api-py.zip 
-# cd bpx-api-py/bpx 
+cd bpx-api-py/bpx 
 # sudo apt-get install pip -y
 # pip install cryptography --break-system-packages 
 
